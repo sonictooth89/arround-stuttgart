@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/sonictooth89.github.io/static/css/main.894c064e.css",
-    "main.js": "/sonictooth89.github.io/static/js/main.ccdc8387.js",
-    "static/js/787.a174f9e5.chunk.js": "/sonictooth89.github.io/static/js/787.a174f9e5.chunk.js",
+    "main.js": "/sonictooth89.github.io/static/js/main.5515c0fc.js",
+    "static/js/787.e2b4b61f.chunk.js": "/sonictooth89.github.io/static/js/787.e2b4b61f.chunk.js",
     "static/media/img1.jpg": "/sonictooth89.github.io/static/media/img1.40e8d9af4729edbc229e.jpg",
     "static/media/tvtower.png": "/sonictooth89.github.io/static/media/tvtower.5f894971ad8b25d467fa.png",
     "static/media/img2.jpg": "/sonictooth89.github.io/static/media/img2.d7122f98f5c173bf826a.jpg",
     "static/media/IMG_5691.jpg": "/sonictooth89.github.io/static/media/IMG_5691.bba3a3bbe9a5eabf471e.jpg",
     "index.html": "/sonictooth89.github.io/index.html",
     "main.894c064e.css.map": "/sonictooth89.github.io/static/css/main.894c064e.css.map",
-    "main.ccdc8387.js.map": "/sonictooth89.github.io/static/js/main.ccdc8387.js.map",
-    "787.a174f9e5.chunk.js.map": "/sonictooth89.github.io/static/js/787.a174f9e5.chunk.js.map"
+    "main.5515c0fc.js.map": "/sonictooth89.github.io/static/js/main.5515c0fc.js.map",
+    "787.e2b4b61f.chunk.js.map": "/sonictooth89.github.io/static/js/787.e2b4b61f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.894c064e.css",
-    "static/js/main.ccdc8387.js"
+    "static/js/main.5515c0fc.js"
   ]
 }
