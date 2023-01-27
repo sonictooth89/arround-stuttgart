@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <Container className="px-4">
           <p className="text-center text-white ">
-            Copywrite & copy; Malgorzata Nowak 2022
+            Copywrite & copy; Malgorzata Nowak 2023
           </p>
         </Container>
      );

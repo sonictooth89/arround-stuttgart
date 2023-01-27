@@ -7,7 +7,7 @@ import image3 from './IMG_5691.jpg';
 function Slider() {
   return (
     <div>
-      <Carousel variant='light' interval={5000}>
+      <Carousel variant='light' interval={7000}>
       <Carousel.Item>
         <img
           src={image1}
