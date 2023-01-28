@@ -1,11 +1,11 @@
 import React from 'react';
-import Slider from './Slider';
+import Slider from './components/Slider/Slider';
 import './App.css';
 import { Navbar, Nav, Container, NavDropdown, Row, Col, Button, Card } from 'react-bootstrap';
 import "bootstrap/dist/css/bootstrap.min.css";
-import Navi from './Navbar';
-import Articles from './Articles';
-import Footer from './Footer';
+import Navi from './components/Navbar/Navbar';
+import Articles from './components/Articles/Articles';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (

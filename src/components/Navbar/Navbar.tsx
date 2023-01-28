@@ -6,7 +6,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 
 function Navi(){
     return (
-        <Navbar bg="secondary" variant='dark' expand="lg">
+        <Navbar bg="primary" variant='dark' expand="lg">
         <Container>
           <Navbar.Brand href="#home">Beutiful Stuttgart Land</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
