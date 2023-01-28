@@ -1,5 +1,5 @@
 import { Button, Card, Col, Row } from "react-bootstrap";
-import tower from './tvtower.png';
+import tower from '../../images/tvtower.png';
 
 
 const Articles = () => {

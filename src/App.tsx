@@ -1,7 +1,6 @@
-import React from 'react';
 import Slider from './components/Slider/Slider';
 import './App.css';
-import { Navbar, Nav, Container, NavDropdown, Row, Col, Button, Card } from 'react-bootstrap';
+import { Container, Card, Row } from 'react-bootstrap';
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navi from './components/Navbar/Navbar';
 import Articles from './components/Articles/Articles';
@@ -24,7 +23,7 @@ function App() {
         <Row>
          <div id='motto'>
             <Card className='text-center bg-info text-white my-2 py-0'>
-                <Card.Body><p><em>Experience all the attractions that are waiting for you here!</em></p></Card.Body>
+                <Card.Body><p><em>“Challenges are what make life interesting and overcoming them is what makes life meaningful.” – Joshua J. Marine</em></p></Card.Body>
             </Card>
          </div>
         </Row>

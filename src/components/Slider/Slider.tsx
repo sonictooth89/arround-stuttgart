@@ -1,8 +1,8 @@
 import './Slider.css';
 import Carousel from 'react-bootstrap/Carousel';
-import image1 from './img1.jpg';
-import image2 from './img2.jpg';
-import image3 from './IMG_5691.jpg'; 
+import image1 from '../../images/img1.jpg';
+import image2 from '../../images/img2.jpg';
+import image3 from '../../images/IMG_5691.jpg'; 
 
 function Slider() {
   return (
